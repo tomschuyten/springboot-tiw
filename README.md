@@ -5,6 +5,7 @@ Jullie hebben de basis van Spring Boot in de vingers. We gaan dit eerst even opf
 
 Daarna zullen volgende topics nog aan bod komen:
 - Spring Boot concepten
+- Testcontainers.org
 - AOP
 - Security
 - Spring Data
